@@ -1,5 +1,7 @@
 # ML-CV-learning
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 A learning journal for mathematics, Python, machine learning, computer vision, and English.
 
 I am a third-year undergraduate preparing for future master's-level study. This repository documents my learning in machine learning, deep learning, and computer vision, alongside my progress in academic English and IELTS preparation. My IELTS target is an overall band score of 7.5, with a tentative test date around February 2027.
