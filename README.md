@@ -46,4 +46,6 @@ Planned portfolio outputs are an image-classification experiment and a two-view 
 - [Python diagnostic and daily practice](PYTHON-PRACTICE.md): initial problems, review criteria, and the first seven sessions.
 - [Weekly log template](weekly-log-template.md): copy into `weekly-logs/` when starting a study week.
 
+All documents have English and Simplified Chinese versions; use the language links at the top of each page to switch. After copying a log template into a subdirectory, remove its language navigation line or prefix those links with `../` to point back to the repository root.
+
 My first exercise is [LeetCode 1480 — Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/). The daily Python reminder is scheduled in Codex for 12:00 noon, Asia/Shanghai (UTC+8). It includes reviews and small mathematical programming exercises, not only new LeetCode problems.

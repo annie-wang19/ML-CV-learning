@@ -1,5 +1,7 @@
 # Weekend Plan: Machine Learning, Computer Vision, and English
 
+[English](STUDY-PLAN.md) | [简体中文](STUDY-PLAN.zh-CN.md)
+
 Prepared: 17 September 2026.
 
 ## Starting point
@@ -148,9 +150,13 @@ Suggested structure; create folders only when needed:
 ```text
 ML-CV-learning/
   README.md
+  README.zh-CN.md
   STUDY-PLAN.md
+  STUDY-PLAN.zh-CN.md
   PYTHON-PRACTICE.md
+  PYTHON-PRACTICE.zh-CN.md
   weekly-log-template.md
+  weekly-log-template.zh-CN.md
   weekly-logs/
   coding-practice/
     README.md

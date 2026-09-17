@@ -1,5 +1,7 @@
 # Python Diagnostic and Daily Practice
 
+[English](PYTHON-PRACTICE.md) | [简体中文](PYTHON-PRACTICE.zh-CN.md)
+
 Prepared: 17 September 2026. Starting level: basic Python. Goal: write, explain, debug, and test small programs that support later ML/CV work.
 
 ## Daily routine

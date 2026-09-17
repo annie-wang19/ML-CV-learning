@@ -46,10 +46,10 @@
 
 ## 从这里开始
 
-- [详细学习计划](STUDY-PLAN.md)：28 个学习周末的安排、数学检查点和雅思备考时间表。
-- [Python 诊断与每日练习](PYTHON-PRACTICE.md)：入门诊断题、反馈标准和前七次练习。
-- [每周学习日志模板](weekly-log-template.md)：开始一个学习周时，复制到 `weekly-logs/` 中填写。
+- [详细学习计划](STUDY-PLAN.zh-CN.md)：28 个学习周末的安排、数学检查点和雅思备考时间表。
+- [Python 诊断与每日练习](PYTHON-PRACTICE.zh-CN.md)：入门诊断题、反馈标准和前七次练习。
+- [每周学习日志模板](weekly-log-template.zh-CN.md)：开始一个学习周时，复制到 `weekly-logs/` 中填写。
 
-以上三个详细文档目前为英文版，可配合本页了解整体安排。
+以上文档均提供中英文版本，点击各页顶部的语言链接即可切换。复制日志模板到子目录后，可删除语言导航行，或将链接改为以 `../` 开头的仓库根目录路径。
 
 第一道练习是 [LeetCode 1480 — 一维数组的动态和](https://leetcode.com/problems/running-sum-of-1d-array/)。每日 Python 提醒已在 Codex 中设为 **北京时间中午 12:00（Asia/Shanghai，UTC+8）**。练习内容包含复习和小型数学编程任务，不要求每天都做一道新的 LeetCode 题。

@@ -1,5 +1,7 @@
 # Week XX — Topic
 
+[English](weekly-log-template.md) | [简体中文](weekly-log-template.zh-CN.md)
+
 Dates:
 Planned / actual hours:
 University deadlines:
