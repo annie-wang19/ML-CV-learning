@@ -49,3 +49,8 @@ Planned portfolio outputs are an image-classification experiment and a two-view 
 All documents have English and Simplified Chinese versions; use the language links at the top of each page to switch. After copying a log template into a subdirectory, remove its language navigation line or prefix those links with `../` to point back to the repository root.
 
 My first exercise is [LeetCode 1480 — Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/). The daily Python reminder is scheduled in Codex for 12:00 noon, Asia/Shanghai (UTC+8). It includes reviews and small mathematical programming exercises, not only new LeetCode problems.
+
+## University course revision
+
+- [Error Theory and Survey Adjustment workbook (Chinese)](measurement-adjustment/误差理论与测量平差-习题册.md): exercises collected from 18 course PDFs, with answers at the end and links in both directions.
+- [Source coverage and verification notes (Chinese)](measurement-adjustment/课件覆盖与校核说明.md).
