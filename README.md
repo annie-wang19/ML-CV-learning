@@ -52,5 +52,7 @@ My first exercise is [LeetCode 1480 — Running Sum of 1d Array](https://leetcod
 
 ## University course revision
 
+- **[PDF workbook with typeset equations and linked answers (Chinese)](measurement-adjustment/误差理论与测量平差-习题册.pdf)**.
+
 - [Error Theory and Survey Adjustment workbook (Chinese)](measurement-adjustment/误差理论与测量平差-习题册.md): exercises collected from 18 course PDFs, with answers at the end and links in both directions.
 - [Source coverage and verification notes (Chinese)](measurement-adjustment/课件覆盖与校核说明.md).
